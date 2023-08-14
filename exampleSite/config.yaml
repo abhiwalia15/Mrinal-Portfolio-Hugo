@@ -56,7 +56,7 @@ params:
   title: "Mrinal Walia | Data Science Portfolio"
   description: Mrinal Walia | Data Science Portfolio
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/aa.jpg"
+  favicon: "/mw.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -121,7 +121,7 @@ params:
     title: "Mrinal Walia."
     subtitle: "I love exploring DATA as it is the new SCIENCE!"
     content: |-
-      I am a Junior Data Scientist with 2.4+ years of proactive industry experience and a strong commitment to ongoing learning and innovative ideation.
+      I am a Junior Data Scientist with 3.5+ years of proactive industry experience and a strong commitment to ongoing learning and innovative ideation.
       
       Presently, I have recently completed my Master's in Applied Computing with a specialization in Artificial Intelligence from the University of Windsor in Fall 2023. Concurrently, I am engaged in a Data Scientist Co-op position at Loblaws Companies Limited from January to August 2023. In this role, I contribute to the optimization of MLOps pipelines and conduct analysis on competitor datasets to extract valuable insights for the business.
     image: /aa.jpg
@@ -132,8 +132,8 @@ params:
       enable: true
       name: "Resume"
       url: "/MrinalWalia_Resume.pdf"
-      download: true
-      newPage: false
+      download: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
